@@ -64,4 +64,8 @@
 
 **Thanks for visiting!**
 
+[![](https://visitcount.itsvg.in/api?id=ohyesabhiii&label=Profile%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+
 
